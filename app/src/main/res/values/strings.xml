@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MeusAlbuns</string>
+    <string name="banda">Banda</string>
+    <string name="musica">Música</string>
+    <string name="estilo">Estilo</string>
+    <string name="data">Data</string>
+    <string name="capa_do_album">Capa do Album</string>
+    <string name="data_de_lancamento">Data de Lançamento</string>
+    <string name="genero">Genero</string>
+    <string name="nome_do_album">Nome do Album</string>
+    <string name="salvar">Salvar</string>
+    <string name="apagar">Apagar</string>
+    <string name="deleta">Apagar</string>
+</resources>
